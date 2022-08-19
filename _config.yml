@@ -16,36 +16,36 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Detroit
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: INF 6050                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Introduction to Programming    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  This course introduces students to the development and implementation of dynamic and interactive computer programs through a basic scripting language (Python).If you like solving puzzles, programming is for you.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://tdbowman.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: tdbowman             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: timothydbowman            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Timothy D Bowman, PhD
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/timothydbowman      # change to your twitter homepage
+    - https://github.com/tdbowman       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
